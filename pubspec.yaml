@@ -1,7 +1,6 @@
 name: rome_bus
-description: A new package for handling event.
+description: EventBus for flutter & dart,for handling event.
 version: 0.0.1
-author: wei-spring
 homepage: https://github.com/wei-spring/rome_bus
 
 environment:
