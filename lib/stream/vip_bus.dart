@@ -1,5 +1,6 @@
 // vip means the event will send right away,not broadcast and not sync
 // and stream can only listen once time!!!.
+// not recommend,unless have to.
 
 // @VipBus
 

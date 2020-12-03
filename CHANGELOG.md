@@ -1,3 +1,3 @@
-## [0.0.1] 2020-12-02.
+## [0.0.2] 2020-12-03.
 
-* initial release.
+* complete example.

@@ -1,6 +1,6 @@
 name: rome_bus
-description: EventBus for flutter & dart,for handling event.
-version: 0.0.1
+description: EventBus for flutter & dart,for handling event,just use event_bus.
+version: 0.0.2
 homepage: https://github.com/wei-spring/rome_bus
 
 environment:
