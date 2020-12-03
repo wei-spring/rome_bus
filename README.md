@@ -1,5 +1,7 @@
-# rome_bus
+# RomeBus
 
-A new package for handling events,like EventBus in android,can use in dart project or flutter project.
+<img src="./row/logo.png" alt="Logo" width="1098" height="545">
 
-## Getting Started
+A package for handling events,like EventBus in android,can use in dart project or flutter project.
+
+## Pattern
